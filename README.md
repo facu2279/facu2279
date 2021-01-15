@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**facu2279/facu2279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Facundo Diaz. I am 19 years old and I am a student of computer engineering and software development.
+Currently studying at Holberton School.
 
-Here are some ideas to get you started:
+Here you will find my latest projects ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Python
+- Shell / bash
+- Html & css
+
+Social Networks
+-------------------
+- [Linkedin](https://www.linkedin.com/in/facundo-d%C3%ADaz-720110149/)
+- [Twitter](https://twitter.com/facudiazuy)
