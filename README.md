@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Hello, my name is Facundo Diaz. I am 19 years old and I am a student of computer engineering and software development.
+Hello, my name is Facundo Diaz. I am 20 years old and I am a student of computer engineering and software development.
 Currently studying at Holberton School.
 
 Here you will find my latest projects ...
