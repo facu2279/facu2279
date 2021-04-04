@@ -5,10 +5,12 @@ Currently studying at Holberton School.
 
 Here you will find my latest projects ...
 
-- C#
 - Python
 - Shell / bash
 - Html & css
+- C#
+- C++
+- SQL
 
 Social Networks
 -------------------
