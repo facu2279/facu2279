@@ -22,8 +22,3 @@ You can also find other simpler projects based on different technologies such as
 - SQL
 - Html & css
 - Shell / bash
-
-Social Networks
--------------------
-- [Linkedin](https://www.linkedin.com/in/facundo-d%C3%ADaz-720110149/)
-- [Twitter](https://twitter.com/facudiazuy)
