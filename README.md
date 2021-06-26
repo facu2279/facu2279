@@ -1,12 +1,13 @@
 ### Welcome! 👋
 
-Hello, my name is Facundo Diaz. I am 20 years old and I am a student of computer engineering and software development.
-Currently studying at Holberton School.
+My name is Facundo Diaz. I am 20 years old and I am a software developer and also a computer engineering student.
+I finished my foundations program at Holberton School and now I am doing a specialization at Holberton in System programming & Algorithm, also studying about the amazing world of Blockchain
 
 
-- To find my portfolio project click here [Portfolio project](https://github.com/facu2279/sigma-crypto_assistant).
+To find my portfolio project click here [Portfolio project](https://github.com/facu2279/sigma-crypto_assistant).
 
-Here you will find my latest projects ...
+
+You can also find other simpler projects based on different technologies such as:
 
 - Python
 - C
