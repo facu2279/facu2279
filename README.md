@@ -8,7 +8,7 @@ My name is Facundo Diaz. I am 20 years old and I am a software developer and als
 I finished my foundations program at Holberton School and now I am doing a specialization at Holberton in System programming & Algorithm, also studying about the amazing world of Blockchain
 
 
-To find my portfolio project click here [Portfolio project](https://github.com/facu2279/sigma-crypto_assistant).
+To see my portfolio project click here [Portfolio project](https://github.com/facu2279/sigma-crypto_assistant).
 <br>
 <img src="https://github.com/facu2279/sigma-crypto_assistant/blob/main/web_dynamic/static/img/sigma_logo.png" alt="aaaa" width="220" height="100">
 <br>
