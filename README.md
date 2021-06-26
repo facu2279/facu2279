@@ -1,9 +1,3 @@
-<link rel="stylesheet" type="text/css" href="CSS.css">
-<style type="text/css">
-aaaa {
-width: 50px; height: 50px
- }
-</style>
 <p> <a href="https://www.linkedin.com/in/facundo-diaz-noya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/facudiazuy" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
@@ -15,7 +9,7 @@ I finished my foundations program at Holberton School and now I am doing a speci
 
 
 To find my portfolio project click here [Portfolio project](https://github.com/facu2279/sigma-crypto_assistant).
-<img src="https://github.com/facu2279/sigma-crypto_assistant/blob/main/web_dynamic/static/img/sigma_logo.png" alt="aaaa">
+<img src="https://github.com/facu2279/sigma-crypto_assistant/blob/main/web_dynamic/static/img/sigma_logo.png" alt="aaaa" width="100" height="100">
 
 
 You can also find other simpler projects based on different technologies such as:
