@@ -9,7 +9,7 @@ I finished my foundations program at Holberton School and now I am doing a speci
 
 
 To find my portfolio project click here [Portfolio project](https://github.com/facu2279/sigma-crypto_assistant).
-<img src="https://github.com/facu2279/sigma-crypto_assistant/blob/main/web_dynamic/static/img/sigma_logo.png" alt="aaaa" width="100" height="100">
+<img src="https://github.com/facu2279/sigma-crypto_assistant/blob/main/web_dynamic/static/img/sigma_logo.png" alt="aaaa" width="150" height="250">
 
 
 You can also find other simpler projects based on different technologies such as:
