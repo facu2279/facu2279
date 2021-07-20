@@ -23,4 +23,4 @@ You can also find other simpler projects based on different technologies such as
 - Html & css
 - Shell / bash
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=facu2279&show_icons=true&theme=synthwave)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=facu2279&show_icons=true&theme=cobalt)
