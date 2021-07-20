@@ -21,8 +21,6 @@ You can also find other simpler projects based on different technologies such as
   <a href="https://www.r-project.org/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Rlogo.svg" alt="R Project for Statistical Computing"></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/css3.svg" alt="CSS3"></a>
-  <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img height="32px" src="" alt="VBA Visual Basic for Applications"></a>
-  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img height="32px" src="" alt="sql structured query language"></a>
   </div>
 - Python
 - C
