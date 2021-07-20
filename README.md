@@ -10,7 +10,7 @@ To see my portfolio project click here [Portfolio project](https://github.com/fa
 <br>
 <a href="https://github.com/facu2279/sigma-crypto_assistant"><img src="https://github.com/facu2279/sigma-crypto_assistant/blob/main/web_dynamic/static/img/sigma_logo.png" alt="aaaa" width="220" height="100"></a>
 <br>
-To see the official presentation of the project portfolio click here [Video](https://youtu.be/xrh7JX6kcKo?t=2234)
+To see the official presentation of the project portfolio click here [Video](https://youtu.be/xrh7JX6kcKo?t=2234) (English language)
 
 
 You can also find other simpler projects based on different technologies such as:
