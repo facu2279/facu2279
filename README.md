@@ -22,3 +22,5 @@ You can also find other simpler projects based on different technologies such as
 - SQL
 - Html & css
 - Shell / bash
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=facu2279)](https://github.com/anuraghazra/github-readme-stats)
