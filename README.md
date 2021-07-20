@@ -8,7 +8,7 @@ Get in touch with me here!
 
 To see my portfolio project click here [Portfolio project](https://github.com/facu2279/sigma-crypto_assistant).
 <br>
-<a href="https://github.com/facu2279/sigma-crypto_assistant)"><img src="https://github.com/facu2279/sigma-crypto_assistant/blob/main/web_dynamic/static/img/sigma_logo.png" alt="aaaa" width="220" height="100"></a>
+<a href="https://github.com/facu2279/sigma-crypto_assistant"><img src="https://github.com/facu2279/sigma-crypto_assistant/blob/main/web_dynamic/static/img/sigma_logo.png" alt="aaaa" width="220" height="100"></a>
 <br>
 To see the official presentation of the project portfolio click here [Video](https://youtu.be/xrh7JX6kcKo?t=2234)
 
