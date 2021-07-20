@@ -25,4 +25,4 @@ You can also find other simpler projects based on different technologies such as
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=facu2279&show_icons=true&theme=cobalt)
 
-[! [Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = facu2279 & layout = compact )] (https://github.com/anuraghazra/github-readme- estadísticas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
