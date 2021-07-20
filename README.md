@@ -20,6 +20,7 @@ You can also find other simpler projects based on different technologies such as
   <a href="https://www.cprogramming.com/" target="_blank"><img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C Low level programming language"></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/HTML5%20Logo%20Badge.svg" alt="HTML5"></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/css3.svg" alt="CSS3"></a>
+      <a href="https://www.mysql.com/" target="_blank"> <img height="32px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/mysql.svg" alt="mysql"></a>
   </div>
 - Python
 - C
