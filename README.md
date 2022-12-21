@@ -1,7 +1,6 @@
 ### Welcome! 👋
 
-My name is Facundo Diaz. I am 20 years old and I am a software developer and also a computer engineering student.
-I finished my foundations program at Holberton School and now I am doing a specialization at Holberton in System programming & Algorithm, also studying about the amazing world of Blockchain
+My name is Facundo Diaz.I am a Srum Master and software developer.
 
 Get in touch with me here!
 <p> <a href="https://www.linkedin.com/in/facundo-diaz-noya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
